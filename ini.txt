@@ -1,0 +1,6 @@
+﻿Host=192.168.1.183;Port=5432;Database=pachira;Username=postgres;Password=ztgis
+Tomy
+Tomy.Pachira
+T_Demos
+Demo
+E:\Code\Demo\IOT\dotnet-code-generator\bin\Debug\net8.0-windows\Tomy.Pachira
